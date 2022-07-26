@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<TimeTable>
+	<item>
+		<course>Технологии программирования</course>
+		<teacher>Смольянинов А.В.</teacher>
+		<begin>28марта 2022</begin>
+		<end>15апреля 2022</end>
+		<duration>50часов</duration>
+	</item>
+	
+	<item>
+		<course>Введение в базы данных</course>
+		<teacher>Ямщиков Д.В.</teacher>
+		<begin>18апреля 2022</begin>
+		<end>29апреля 2022</end>
+		<duration>30часов</duration>
+	</item>
+	
+	<item>
+		<course>Программирование на C#</course>
+		<teacher>Смольянинов А.В.</teacher>
+		<begin>11мая 2022</begin>
+		<end>31мая 2022</end>
+		<duration>50часов</duration>
+	</item>
+			
+</TimeTable>
