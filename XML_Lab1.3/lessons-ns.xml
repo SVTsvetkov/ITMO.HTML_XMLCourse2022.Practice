@@ -1,0 +1,35 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<TimeTable xmlns:les="http://www.itmo.ru/xml/lessons" xmlns:lit="http://www.itmo.ru/xml/literature">
+
+	<course id = "a">
+		<les:course>Технологии программирования</les:course>
+		<les:teacher>Смольянинов А.В.</les:teacher>
+		<les:begin>28марта 2022</les:begin>
+		<les:end>15апреля 2022</les:end>
+		<les:duration>50часов</les:duration>
+		<lit:title>Разработка требований к программному обеспечению</lit:title>
+		<lit:author>Вигерс К.</lit:author>
+	</course>
+	
+	<course id = "b">
+		<les:course>Введение в базы данных</les:course>
+		<les:teacher>Ямщиков Д.В.</les:teacher>
+		<les:begin>18апреля 2022</les:begin>
+		<les:end>29апреля 2022</les:end>
+		<les:duration>30часов</les:duration>
+		<lit:title>SQL и реляционная теория</lit:title>
+		<lit:author>Дейт К.</lit:author>
+	</course>
+	
+	<course id = "c">
+		<les:course>Программирование на C#</les:course>
+		<les:teacher>Смольянинов А.В.</les:teacher>
+		<les:begin>11мая 2022</les:begin>
+		<les:end>31мая 2022</les:end>
+		<les:duration>50часов</les:duration>
+		<lit:title>C#4.0.Полное руководство</lit:title>
+		<lit:author>Герберт Шилдт</lit:author>
+	</course>
+	
+
+</TimeTable>
